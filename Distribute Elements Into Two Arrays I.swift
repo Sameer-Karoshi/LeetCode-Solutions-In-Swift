@@ -12,6 +12,7 @@ class Solution {
                 array2.append(nums[i])
             }
         }
+
         return array1 + array2
     }
 }
