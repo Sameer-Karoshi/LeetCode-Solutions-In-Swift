@@ -1,6 +1,6 @@
 class Solution {
     func setZeroes(_ matrix: inout [[Int]]) {
-        // Optimal Solution 
+        // Optimal Solution in Swift
         // col[m] = matrix[m][..]
         // row[n] = matrix[..][n]
 
